@@ -12,5 +12,6 @@ namespace Exam
         public int Variant { get; set; }
         public DateTime StartedTime { get; set; }
         public DateTime FinishedTime { get; set; }
+		//my comment
     }
 }
